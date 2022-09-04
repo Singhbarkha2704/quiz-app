@@ -1,0 +1,32 @@
+/* Questionaire */
+.playground{
+    background-color: bisque;
+    margin: 2px 50px 50px 50px;
+    padding:7px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 6px ;
+}
+
+.custom-btn{
+    margin:6px;
+    width:60%;
+    box-shadow: 2px 2px 2px;
+}
+
+.heading{
+    color:teal;
+    font-weight:bolder;
+    font-size: 50px;
+    margin:2%
+}
+
+.custom-col{
+    margin:4px;
+}
+
+.default-btn{
+    background-color: rgb(0, 150, 255);
+}
+.default-btn:hover{
+    background-color: rgba(0,150,255,6);
+}
